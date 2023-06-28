@@ -9,9 +9,9 @@ import 'dart:core' as $core;
 
 import 'package:protobuf/protobuf.dart' as $pb;
 
-import 'flutterblue.pbenum.dart';
+import 'bluetoothplus.pbenum.dart';
 
-export 'flutterblue.pbenum.dart';
+export 'bluetoothplus.pbenum.dart';
 
 class Int32Value extends $pb.GeneratedMessage {
   static final $pb.BuilderInfo _i = $pb.BuilderInfo(const $core.bool.fromEnvironment('protobuf.omit_message_names') ? '' : 'Int32Value', createEmptyInstance: create)
