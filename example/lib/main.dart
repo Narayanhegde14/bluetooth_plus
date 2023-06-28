@@ -6,7 +6,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_blue/flutter_blue.dart';
+import 'package:flutter_bluetooth_plus/flutter_bluetooth_plus.dart';
 import 'package:flutter_blue_example/widgets.dart';
 
 void main() {
